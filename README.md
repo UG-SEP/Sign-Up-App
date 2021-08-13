@@ -6,8 +6,10 @@
 ![](https://img.shields.io/badge/App_Version-1.00.00-blue.svg)
 <h1><p align="center" >Sign UP Application </p></h1>
 <img src="https://github.com/UG-SEP/Sign-Up-App/blob/UG/SignUP.jpg" />
-<h3>Sign Up option is one of the most useful way to store data of a user because it let it be different for other...</h3>
 
+> Copyright (c) by Ujjwal Gupta (@UG-SEP)
+
+<h3>Sign Up option is one of the most useful way to store data of a user because it let it be different for other...</h3>
 <h2>Framework used</h2>
 <h3>Qt one of the best GUI framework for c++ language</h3>
 <h2>How to download and Install Qt</h2>
